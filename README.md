@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jayachandra, JC in short
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently pursuing my Master's in Computer Science
+- 🎓 Computer Science Graduate @ UF 🐊
 - 💞️ I’m looking to collaborate on developing web applications
 - 📫 I am available on https://www.linkedin.com/in/jayachandrajc/
 <!---
